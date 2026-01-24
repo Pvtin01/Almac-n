@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "exportDate": "2026-01-24T07:20:38.517Z",
+  "exportDate": "2026-01-24T07:21:04.307Z",
   "comics": [
     {
       "title": "loli",
@@ -19466,7 +19466,7 @@
       "id": 320
     },
     {
-      "title": "Tododora",
+      "title": "TodDora",
       "pages": [
         "https://s2.3hentai.xyz/d464277/1.jpg",
         "https://s2.3hentai.xyz/d464277/2.jpg",
