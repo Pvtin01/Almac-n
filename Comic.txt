@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "exportDate": "2026-01-22T02:07:08.419Z",
+  "exportDate": "2026-01-24T07:20:19.056Z",
   "comics": [
     {
       "title": "loli",
@@ -19617,6 +19617,15 @@
       "cover": "https://s1.3hentai.xyz/d519725/1.jpg",
       "date": "2026-01-21T20:14:31.407Z",
       "id": 328
+    },
+    {
+      "id": 329,
+      "title": "comic",
+      "pages": [
+        "https://pruebegydo-ship-it.github.io/web.ia/index.html"
+      ],
+      "cover": "https://pruebegydo-ship-it.github.io/web.ia/index.html",
+      "date": "2026-01-24T07:20:19.050Z"
     }
   ]
 }
