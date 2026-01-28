@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "exportDate": "2026-01-28T03:49:48.409Z",
+  "exportDate": "2026-01-28T03:51:14.950Z",
   "comics": [
     {
       "title": "loli",
@@ -19851,7 +19851,7 @@
         "https://s1.3hentai.xyz/d1882530/7.jpg"
       ],
       "cover": "https://s1.3hentai.xyz/d1882530/1.jpg",
-      "date": "2026-01-28T03:49:48.408Z",
+      "date": "2026-01-28T03:51:14.950Z",
       "id": 336
     }
   ]
