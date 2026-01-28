@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "exportDate": "2026-01-28T03:45:20.089Z",
+  "exportDate": "2026-01-28T03:46:25.362Z",
   "comics": [
     {
       "title": "loli",
@@ -19838,6 +19838,27 @@
       "cover": "https://s1.3hentai.xyz/d2021877/1.jpg",
       "date": "2026-01-28T03:45:20.088Z",
       "id": 335
+    },
+    {
+      "title": "[Tina] 今井リサ (BanG Dream!)",
+      "pages": [
+        "https://s1.3hentai.xyz/d2115170/1.jpg",
+        "https://s1.3hentai.xyz/d2115170/2.jpg",
+        "https://s1.3hentai.xyz/d2115170/3.jpg",
+        "https://s1.3hentai.xyz/d2115170/4.jpg",
+        "https://s1.3hentai.xyz/d2115170/5.jpg",
+        "https://s1.3hentai.xyz/d2115170/6.jpg",
+        "https://s1.3hentai.xyz/d2115170/7.jpg",
+        "https://s1.3hentai.xyz/d2115170/8.jpg",
+        "https://s1.3hentai.xyz/d2115170/9.jpg",
+        "https://s1.3hentai.xyz/d2115170/10.jpg",
+        "https://s1.3hentai.xyz/d2115170/11.jpg",
+        "https://s1.3hentai.xyz/d2115170/12.jpg",
+        "https://s1.3hentai.xyz/d2115170/13.jpg"
+      ],
+      "cover": "https://s1.3hentai.xyz/d2115170/1.jpg",
+      "date": "2026-01-28T03:46:25.362Z",
+      "id": 336
     }
   ]
 }
