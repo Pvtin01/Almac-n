@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "exportDate": "2026-01-28T01:49:26.158Z",
+  "exportDate": "2026-01-28T01:52:35.893Z",
   "comics": [
     {
       "title": "loli",
@@ -19657,6 +19657,35 @@
       ],
       "cover": "https://melapelocondibujos.com/wp-content/uploads/2024/06/el-video-secreto-de-marge3-1.jpeg",
       "date": "2026-01-28T01:49:26.157Z"
+    },
+    {
+      "id": 330,
+      "title": "lisa",
+      "pages": [
+        "https://melapelocondibujos.com/wp-content/uploads/2022/07/2-43-707x1000.jpg",
+        "https://melapelocondibujos.com/wp-content/uploads/2022/07/3-46-707x1000.jpg",
+        "https://melapelocondibujos.com/wp-content/uploads/2022/07/4-46-707x1000.jpg",
+        "https://melapelocondibujos.com/wp-content/uploads/2022/07/5-45-707x1000.jpg",
+        "https://melapelocondibujos.com/wp-content/uploads/2022/07/6-43-707x1000.jpg",
+        "https://melapelocondibujos.com/wp-content/uploads/2022/07/7-43-714x1000.jpg",
+        "https://melapelocondibujos.com/wp-content/uploads/2022/07/8-46-714x1000.jpg",
+        "https://melapelocondibujos.com/wp-content/uploads/2022/07/9-49-714x1000.jpg",
+        "https://melapelocondibujos.com/wp-content/uploads/2022/07/10-46-714x1000.jpg",
+        "https://melapelocondibujos.com/wp-content/uploads/2022/08/015-2-707x1000.jpg",
+        "https://melapelocondibujos.com/wp-content/uploads/2022/08/016-2-707x1000.jpg",
+        "https://melapelocondibujos.com/wp-content/uploads/2022/08/017-2-707x1000.jpg",
+        "https://melapelocondibujos.com/wp-content/uploads/2022/08/018-2-707x1000.jpg",
+        "https://melapelocondibujos.com/wp-content/uploads/2022/08/019-2-707x1000.jpg",
+        "https://melapelocondibujos.com/wp-content/uploads/2022/08/20-32-707x1000.jpg",
+        "https://melapelocondibujos.com/wp-content/uploads/2022/08/21-32-707x1000.jpg",
+        "https://melapelocondibujos.com/wp-content/uploads/2022/08/22-30-707x1000.jpg",
+        "https://melapelocondibujos.com/wp-content/uploads/2022/08/23-31-707x1000.jpg",
+        "https://melapelocondibujos.com/wp-content/uploads/2022/08/24-29-707x1000.jpg",
+        "https://melapelocondibujos.com/wp-content/uploads/2022/08/25-31-707x1000.jpg",
+        "https://melapelocondibujos.com/wp-content/uploads/2022/08/26-31-707x1000.jpg"
+      ],
+      "cover": "https://melapelocondibujos.com/wp-content/uploads/2022/07/2-43-707x1000.jpg",
+      "date": "2026-01-28T01:52:35.891Z"
     }
   ]
 }
