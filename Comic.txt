@@ -1,7 +1,6 @@
 {
   "version": "1.0",
-  "exportDate": "2026-01-29T00:33:22.679Z",
-  "totalComics": 362,
+  "exportDate": "2026-01-29T02:29:43.779Z",
   "comics": [
     {
       "title": "loli",
@@ -21445,41 +21444,6 @@
       "date": "2026-01-29T00:33:21.734Z",
       "id": 377,
       "source": "https://es.3hentai.net/d/232293"
-    },
-    {
-      "title": "(Kemoket 3) [Nekodamashi. (Miru)] Peko Pako (Doraemon)",
-      "pages": [
-        "https://s9.3hentai.xyz/d401003/1.jpg",
-        "https://s9.3hentai.xyz/d401003/2.jpg",
-        "https://s9.3hentai.xyz/d401003/3.jpg",
-        "https://s9.3hentai.xyz/d401003/4.jpg",
-        "https://s9.3hentai.xyz/d401003/5.jpg",
-        "https://s9.3hentai.xyz/d401003/6.jpg",
-        "https://s9.3hentai.xyz/d401003/7.jpg",
-        "https://s9.3hentai.xyz/d401003/8.jpg",
-        "https://s9.3hentai.xyz/d401003/9.jpg",
-        "https://s9.3hentai.xyz/d401003/10.jpg",
-        "https://s9.3hentai.xyz/d401003/11.jpg",
-        "https://s9.3hentai.xyz/d401003/12.jpg",
-        "https://s9.3hentai.xyz/d401003/13.jpg",
-        "https://s9.3hentai.xyz/d401003/14.jpg",
-        "https://s9.3hentai.xyz/d401003/15.jpg",
-        "https://s9.3hentai.xyz/d401003/16.jpg",
-        "https://s9.3hentai.xyz/d401003/17.jpg",
-        "https://s9.3hentai.xyz/d401003/18.jpg",
-        "https://s9.3hentai.xyz/d401003/19.jpg",
-        "https://s9.3hentai.xyz/d401003/20.jpg",
-        "https://s9.3hentai.xyz/d401003/21.jpg",
-        "https://s9.3hentai.xyz/d401003/22.jpg",
-        "https://s9.3hentai.xyz/d401003/23.jpg",
-        "https://s9.3hentai.xyz/d401003/24.jpg",
-        "https://s9.3hentai.xyz/d401003/25.jpg",
-        "https://s9.3hentai.xyz/d401003/26.jpg"
-      ],
-      "cover": "https://s9.3hentai.xyz/d401003/1.jpg",
-      "date": "2026-01-29T00:33:21.969Z",
-      "id": 378,
-      "source": "https://es.3hentai.net/d/401003"
     },
     {
       "title": "[Tsurugashima Heights (Hase Tsubura)] Doruemon ●Gouda wa Saikin no Kireru Wakamono no Maki (Doraemon) [English] [Laruffii] (with edits)",
