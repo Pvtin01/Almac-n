@@ -1,7 +1,6 @@
 {
   "version": "1.0",
-  "exportDate": "2026-01-28T04:14:57.671Z",
-  "totalComics": 354,
+  "exportDate": "2026-01-29T00:15:22.319Z",
   "comics": [
     {
       "title": "loli",
@@ -19287,7 +19286,7 @@
       "id": 309
     },
     {
-      "title": "dpg",
+      "title": "dog",
       "pages": [
         "https://img3.giolandscaping.com/library/75175/000.webp",
         "https://img3.giolandscaping.com/library/75175/001.webp",
