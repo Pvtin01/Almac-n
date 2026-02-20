@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "exportDate": "2026-02-20T18:15:53.965Z",
+  "exportDate": "2026-02-20T18:57:28.657Z",
   "comics": [
     {
       "title": "loli",
@@ -21594,6 +21594,15 @@
       ],
       "cover": "https://melapelocondibujos.com/karen-kennycomix/",
       "date": "2026-02-20T18:15:53.952Z"
+    },
+    {
+      "id": 384,
+      "title": "ey",
+      "pages": [
+        "https://melapelocondibujos.com/wp-content/uploads/2026/02/www.svscomics.com_001-768x994.jpg"
+      ],
+      "cover": "https://melapelocondibujos.com/wp-content/uploads/2026/02/www.svscomics.com_001-768x994.jpg",
+      "date": "2026-02-20T18:57:28.656Z"
     }
   ]
 }
