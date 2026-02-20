@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "exportDate": "2026-02-20T19:01:18.504Z",
+  "exportDate": "2026-02-20T19:14:26.230Z",
   "comics": [
     {
       "title": "loli",
@@ -21594,6 +21594,15 @@
       ],
       "cover": "https://melapelocondibujos.com/wp-content/uploads/2026/02/www.svscomics.com_001-768x994.jpg",
       "date": "2026-02-20T18:57:28.656Z"
+    },
+    {
+      "id": 385,
+      "title": "comic",
+      "pages": [
+        "https://a2.gold-usergeneratedcontent.net/1771614001/1959/8dbe9a0c33aa1df019a3e76bc44965234f0273df401011e3093975171c3eda77.avif"
+      ],
+      "cover": "https://a2.gold-usergeneratedcontent.net/1771614001/1959/8dbe9a0c33aa1df019a3e76bc44965234f0273df401011e3093975171c3eda77.avif",
+      "date": "2026-02-20T19:14:26.227Z"
     }
   ]
 }
