@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "exportDate": "2026-02-20T19:14:26.230Z",
+  "exportDate": "2026-02-20T19:14:53.770Z",
   "comics": [
     {
       "title": "loli",
@@ -21602,7 +21602,7 @@
         "https://a2.gold-usergeneratedcontent.net/1771614001/1959/8dbe9a0c33aa1df019a3e76bc44965234f0273df401011e3093975171c3eda77.avif"
       ],
       "cover": "https://a2.gold-usergeneratedcontent.net/1771614001/1959/8dbe9a0c33aa1df019a3e76bc44965234f0273df401011e3093975171c3eda77.avif",
-      "date": "2026-02-20T19:14:26.227Z"
+      "date": "2026-02-20T19:14:53.770Z"
     }
   ]
 }
