@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "exportDate": "2026-02-21T09:30:53.366Z",
+  "exportDate": "2026-02-21T17:01:50.337Z",
   "comics": [
     {
       "title": "loli",
@@ -21625,6 +21625,51 @@
       "cover": "https://fullcomics18.org/img20/scooby-doo-comic-1.jpg",
       "date": "2026-02-21T09:30:53.365Z",
       "id": 387
+    },
+    {
+      "id": 388,
+      "title": "La Religión de una Fundadora Futanari Realmente Existe - Shrimp Cake",
+      "cover": "https://comicspornow.com/wp-content/uploads/la-religion-de-una-fundadora-futanari-realmente-existe-1.webp",
+      "pages": [
+        "https://comicspornow.com/wp-content/uploads/la-religion-de-una-fundadora-futanari-realmente-existe-1.webp",
+        "https://comicspornow.com/wp-content/uploads/la-religion-de-una-fundadora-futanari-realmente-existe-2.webp",
+        "https://comicspornow.com/wp-content/uploads/la-religion-de-una-fundadora-futanari-realmente-existe-3.webp",
+        "https://comicspornow.com/wp-content/uploads/la-religion-de-una-fundadora-futanari-realmente-existe-4.webp",
+        "https://comicspornow.com/wp-content/uploads/la-religion-de-una-fundadora-futanari-realmente-existe-5.webp",
+        "https://comicspornow.com/wp-content/uploads/la-religion-de-una-fundadora-futanari-realmente-existe-6.webp",
+        "https://comicspornow.com/wp-content/uploads/la-religion-de-una-fundadora-futanari-realmente-existe-7.webp",
+        "https://comicspornow.com/wp-content/uploads/la-religion-de-una-fundadora-futanari-realmente-existe-8.webp",
+        "https://comicspornow.com/wp-content/uploads/la-religion-de-una-fundadora-futanari-realmente-existe-9.webp",
+        "https://comicspornow.com/wp-content/uploads/la-religion-de-una-fundadora-futanari-realmente-existe-10.webp",
+        "https://comicspornow.com/wp-content/uploads/la-religion-de-una-fundadora-futanari-realmente-existe-11.webp",
+        "https://comicspornow.com/wp-content/uploads/la-religion-de-una-fundadora-futanari-realmente-existe-12.webp",
+        "https://comicspornow.com/wp-content/uploads/la-religion-de-una-fundadora-futanari-realmente-existe-13.webp",
+        "https://comicspornow.com/wp-content/uploads/la-religion-de-una-fundadora-futanari-realmente-existe-14.webp",
+        "https://comicspornow.com/wp-content/uploads/la-religion-de-una-fundadora-futanari-realmente-existe-15.webp",
+        "https://comicspornow.com/wp-content/uploads/la-religion-de-una-fundadora-futanari-realmente-existe-16.webp",
+        "https://comicspornow.com/wp-content/uploads/la-religion-de-una-fundadora-futanari-realmente-existe-17.webp",
+        "https://comicspornow.com/wp-content/uploads/la-religion-de-una-fundadora-futanari-realmente-existe-18.webp",
+        "https://comicspornow.com/wp-content/uploads/la-religion-de-una-fundadora-futanari-realmente-existe-19.webp",
+        "https://comicspornow.com/wp-content/uploads/la-religion-de-una-fundadora-futanari-realmente-existe-20.webp",
+        "https://comicspornow.com/wp-content/uploads/la-religion-de-una-fundadora-futanari-realmente-existe-21.webp",
+        "https://comicspornow.com/wp-content/uploads/la-religion-de-una-fundadora-futanari-realmente-existe-22.webp",
+        "https://comicspornow.com/wp-content/uploads/la-religion-de-una-fundadora-futanari-realmente-existe-23.webp",
+        "https://comicspornow.com/wp-content/uploads/la-religion-de-una-fundadora-futanari-realmente-existe-24.webp",
+        "https://comicspornow.com/wp-content/uploads/la-religion-de-una-fundadora-futanari-realmente-existe-25.webp",
+        "https://comicspornow.com/wp-content/uploads/la-religion-de-una-fundadora-futanari-realmente-existe-26.webp",
+        "https://comicspornow.com/wp-content/uploads/la-religion-de-una-fundadora-futanari-realmente-existe-27.webp",
+        "https://comicspornow.com/wp-content/uploads/la-religion-de-una-fundadora-futanari-realmente-existe-28.webp",
+        "https://comicspornow.com/wp-content/uploads/la-religion-de-una-fundadora-futanari-realmente-existe-29.webp",
+        "https://comicspornow.com/wp-content/uploads/la-religion-de-una-fundadora-futanari-realmente-existe-30.webp",
+        "https://comicspornow.com/wp-content/uploads/la-religion-de-una-fundadora-futanari-realmente-existe-31.webp",
+        "https://comicspornow.com/wp-content/uploads/la-religion-de-una-fundadora-futanari-realmente-existe-32.webp",
+        "https://comicspornow.com/wp-content/uploads/la-religion-de-una-fundadora-futanari-realmente-existe-33.webp",
+        "https://comicspornow.com/wp-content/uploads/la-religion-de-una-fundadora-futanari-realmente-existe-34.webp",
+        "https://comicspornow.com/wp-content/uploads/la-religion-de-una-fundadora-futanari-realmente-existe-35.webp",
+        "https://comicspornow.com/wp-content/uploads/la-religion-de-una-fundadora-futanari-realmente-existe-36.webp",
+        "https://comicspornow.com/wp-content/uploads/la-religion-de-una-fundadora-futanari-realmente-existe-37.webp"
+      ],
+      "date": "2026-02-21T17:01:48.213Z"
     }
   ]
 }
