@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "exportDate": "2026-02-21T06:00:34.619Z",
+  "exportDate": "2026-02-21T09:30:53.366Z",
   "comics": [
     {
       "title": "loli",
@@ -21612,6 +21612,19 @@
       ],
       "cover": "https://chochox.com/wp-content/uploads/2026/02/Raton-de-Laboratorio-Dialkasper-01.webp",
       "date": "2026-02-21T06:00:34.617Z"
+    },
+    {
+      "title": "SCOOBY DOO comic [MarmaladeMum]",
+      "pages": [
+        "https://fullcomics18.org/img20/scooby-doo-comic-1.jpg",
+        "https://fullcomics18.org/img20/scooby-doo-comic-2.jpg",
+        "https://fullcomics18.org/img20/scooby-doo-comic-3.jpg",
+        "https://fullcomics18.org/img20/scooby-doo-comic-4.jpg",
+        "https://fullcomics18.org/img20/scooby-doo-comic-5.jpg"
+      ],
+      "cover": "https://fullcomics18.org/img20/scooby-doo-comic-1.jpg",
+      "date": "2026-02-21T09:30:53.365Z",
+      "id": 387
     }
   ]
 }
