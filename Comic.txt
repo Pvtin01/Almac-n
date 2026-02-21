@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "exportDate": "2026-02-20T19:16:15.910Z",
+  "exportDate": "2026-02-21T06:00:34.619Z",
   "comics": [
     {
       "title": "loli",
@@ -21603,6 +21603,15 @@
       ],
       "cover": "https://a2.gold-usergeneratedcontent.net/1771614001/1959/8dbe9a0c33aa1df019a3e76bc44965234f0273df401011e3093975171c3eda77.avif",
       "date": "2026-02-20T19:16:15.910Z"
+    },
+    {
+      "id": 386,
+      "title": "Holi",
+      "pages": [
+        "https://chochox.com/wp-content/uploads/2026/02/Raton-de-Laboratorio-Dialkasper-01.webp"
+      ],
+      "cover": "https://chochox.com/wp-content/uploads/2026/02/Raton-de-Laboratorio-Dialkasper-01.webp",
+      "date": "2026-02-21T06:00:34.617Z"
     }
   ]
 }
