@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "exportDate": "2026-02-21T17:19:06.830Z",
+  "exportDate": "2026-02-21T17:40:30.149Z",
   "comics": [
     {
       "title": "loli",
@@ -21652,6 +21652,45 @@
       "cover": "https://comicspornow.com/wp-content/uploads/la-religion-de-una-fundadora-futanari-realmente-existe-1.webp",
       "date": "2026-02-21T17:19:06.829Z",
       "id": 388
+    },
+    {
+      "title": "Un perro Me ha hecho NTR - Inu ni NTRrechimatta - Silver Dog",
+      "pages": [
+        "https://comicspornow.com/wp-content/uploads/000-1066.webp",
+        "https://comicspornow.com/wp-content/uploads/001-1249.webp",
+        "https://comicspornow.com/wp-content/uploads/002-1262.webp",
+        "https://comicspornow.com/wp-content/uploads/003-1262.webp",
+        "https://comicspornow.com/wp-content/uploads/004-1252.webp",
+        "https://comicspornow.com/wp-content/uploads/005-1242.webp",
+        "https://comicspornow.com/wp-content/uploads/006-1231.webp",
+        "https://comicspornow.com/wp-content/uploads/007-1219.webp",
+        "https://comicspornow.com/wp-content/uploads/008-1203.webp",
+        "https://comicspornow.com/wp-content/uploads/009-1190.webp",
+        "https://comicspornow.com/wp-content/uploads/010-1180.webp",
+        "https://comicspornow.com/wp-content/uploads/011-1172.webp",
+        "https://comicspornow.com/wp-content/uploads/012-1159.webp",
+        "https://comicspornow.com/wp-content/uploads/013-1151.webp",
+        "https://comicspornow.com/wp-content/uploads/014-1137.webp",
+        "https://comicspornow.com/wp-content/uploads/015-1120.webp",
+        "https://comicspornow.com/wp-content/uploads/016-1089.webp",
+        "https://comicspornow.com/wp-content/uploads/017-1071.webp",
+        "https://comicspornow.com/wp-content/uploads/018-1050.webp",
+        "https://comicspornow.com/wp-content/uploads/019-1031.webp",
+        "https://comicspornow.com/wp-content/uploads/020-996.webp",
+        "https://comicspornow.com/wp-content/uploads/021-977.webp",
+        "https://comicspornow.com/wp-content/uploads/022-955.webp",
+        "https://comicspornow.com/wp-content/uploads/023-917.webp",
+        "https://comicspornow.com/wp-content/uploads/024-886.webp",
+        "https://comicspornow.com/wp-content/uploads/025-847.webp",
+        "https://comicspornow.com/wp-content/uploads/026-819.webp",
+        "https://comicspornow.com/wp-content/uploads/027-805.webp",
+        "https://comicspornow.com/wp-content/uploads/028-783.webp",
+        "https://comicspornow.com/wp-content/uploads/029-766.webp",
+        "https://comicspornow.com/wp-content/uploads/76564_83-250x243.webp"
+      ],
+      "cover": "https://comicspornow.com/wp-content/uploads/000-1066.webp",
+      "date": "2026-02-21T17:40:30.148Z",
+      "id": 389
     }
   ]
 }
