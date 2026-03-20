@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "exportDate": "2026-03-20T01:24:01.678Z",
+  "exportDate": "2026-03-20T01:24:10.080Z",
   "comics": [
     {
       "title": "loli",
@@ -21993,6 +21993,32 @@
       ],
       "cover": "https://s1.3hentai.xyz/d890000/1.jpg",
       "date": "2026-03-20T00:49:32.920Z"
+    },
+    {
+      "id": 398,
+      "title": "Inukan Nikki Vl3",
+      "pages": [
+        "https://ia-sofia.armijosfeo5.workers.dev/?url=https%3A%2F%2Fa2.gold-usergeneratedcontent.net%2F1773968401%2F2371%2F28f818ed21e5c51e6ca16ac10aa497eeb90ff8515e5a0963193167d15e739439.avif&ref=https%3A%2F%2Fhitomi.la%2Freader%2F2885432.html",
+        "https://ia-sofia.armijosfeo5.workers.dev/?url=https%3A%2F%2Fa1.gold-usergeneratedcontent.net%2F1773968401%2F1980%2Fe09779f814a3807f0346dcc4e9500e8586487525058d7f6bbf3a1592900b0bc7.avif&ref=https%3A%2F%2Fhitomi.la%2Freader%2F2885432.html",
+        "https://ia-sofia.armijosfeo5.workers.dev/?url=https%3A%2F%2Fa1.gold-usergeneratedcontent.net%2F1773968401%2F3495%2F9a1ff9347c47d77e934477ae1db185aa4457a962246699607d33de0f803afa7d.avif&ref=https%3A%2F%2Fhitomi.la%2Freader%2F2885432.html",
+        "https://ia-sofia.armijosfeo5.workers.dev/?url=https%3A%2F%2Fa2.gold-usergeneratedcontent.net%2F1773968401%2F2152%2F3db47a8a2c30d7a77ff050e760c4fe61280fd4b1bc44ede6d3d36ec7698a1688.avif&ref=https%3A%2F%2Fhitomi.la%2Freader%2F2885432.html",
+        "https://ia-sofia.armijosfeo5.workers.dev/?url=https%3A%2F%2Fa2.gold-usergeneratedcontent.net%2F1773968401%2F2218%2F42cad48a99906cc0e26ab72c8423c973f4a28ce6d29303043c066fc48fe63aa8.avif&ref=https%3A%2F%2Fhitomi.la%2Freader%2F2885432.html",
+        "https://ia-sofia.armijosfeo5.workers.dev/?url=https%3A%2F%2Fa1.gold-usergeneratedcontent.net%2F1773968401%2F204%2F9539f267dc5e6348327753567da12a34b0cd7a3952f8d26ebb80d66795d59cc0.avif&ref=https%3A%2F%2Fhitomi.la%2Freader%2F2885432.html",
+        "https://ia-sofia.armijosfeo5.workers.dev/?url=https%3A%2F%2Fa1.gold-usergeneratedcontent.net%2F1773968401%2F1758%2Fd800e5d67050d26c9668ad078ac2bb57dff95c5836db695e0da044e55d9ccde6.avif&ref=https%3A%2F%2Fhitomi.la%2Freader%2F2885432.html",
+        "https://ia-sofia.armijosfeo5.workers.dev/?url=https%3A%2F%2Fa1.gold-usergeneratedcontent.net%2F1773968401%2F2820%2F36a485f11bb895b741e6680a7b5abcad63b5e5d266a47dcf2fffcc0dbdc3804b.avif&ref=https%3A%2F%2Fhitomi.la%2Freader%2F2885432.html",
+        "https://ia-sofia.armijosfeo5.workers.dev/?url=https%3A%2F%2Fa2.gold-usergeneratedcontent.net%2F1773968401%2F841%2F5cbb6625715d3d22dbda5a8eca7eb8edf00a58cb60daf332abbc0b77c1b58493.avif&ref=https%3A%2F%2Fhitomi.la%2Freader%2F2885432.html",
+        "https://ia-sofia.armijosfeo5.workers.dev/?url=https%3A%2F%2Fa2.gold-usergeneratedcontent.net%2F1773968401%2F952%2Fd5216c9716e574fee60fd36eef6222a279cd96b502972a65e73cc6f13188fb83.avif&ref=https%3A%2F%2Fhitomi.la%2Freader%2F2885432.html",
+        "https://ia-sofia.armijosfeo5.workers.dev/?url=https%3A%2F%2Fa1.gold-usergeneratedcontent.net%2F1773968401%2F21%2Ffe15c7f56d92347796ca623b63d9e3ae12f3f116b1e3b1dd22818c707b0f0150.avif&ref=https%3A%2F%2Fhitomi.la%2Freader%2F2885432.html",
+        "https://ia-sofia.armijosfeo5.workers.dev/?url=https%3A%2F%2Fa1.gold-usergeneratedcontent.net%2F1773968401%2F3153%2Fe9eaad0208effcac75dcace0591ae7ee6590124ec6738787d2b348aa3760251c.avif&ref=https%3A%2F%2Fhitomi.la%2Freader%2F2885432.html",
+        "https://ia-sofia.armijosfeo5.workers.dev/?url=https%3A%2F%2Fa2.gold-usergeneratedcontent.net%2F1773968401%2F3973%2Fa153250b6cf9ff7f493a1a4b3a366e307838f5d8954631836446380d517e885f.avif&ref=https%3A%2F%2Fhitomi.la%2Freader%2F2885432.html",
+        "https://ia-sofia.armijosfeo5.workers.dev/?url=https%3A%2F%2Fa2.gold-usergeneratedcontent.net%2F1773968401%2F1894%2F9ba35421446263b03fd30542e66602319ab66e62175e4b0eea5bf8fff5f99667.avif&ref=https%3A%2F%2Fhitomi.la%2Freader%2F2885432.html",
+        "https://ia-sofia.armijosfeo5.workers.dev/?url=https%3A%2F%2Fa2.gold-usergeneratedcontent.net%2F1773968401%2F4063%2F3d2f8ae51474eb67a57b3bf202a7ac1d4fd5818ca062c79c817b049ac0577dff.avif&ref=https%3A%2F%2Fhitomi.la%2Freader%2F2885432.html",
+        "https://ia-sofia.armijosfeo5.workers.dev/?url=https%3A%2F%2Fa2.gold-usergeneratedcontent.net%2F1773968401%2F1762%2Fbe3fd2bf0d3f8c4add6b1edd6934876d8c2659e641894d96d97b1d1dc777ae26.avif&ref=https%3A%2F%2Fhitomi.la%2Freader%2F2885432.html",
+        "https://ia-sofia.armijosfeo5.workers.dev/?url=https%3A%2F%2Fa1.gold-usergeneratedcontent.net%2F1773968401%2F3666%2F61ac0c3e3db6be3421329df4b1a7e52e8eacc0b4493fffaea60a8e790827e52e.avif&ref=https%3A%2F%2Fhitomi.la%2Freader%2F2885432.html",
+        "https://ia-sofia.armijosfeo5.workers.dev/?url=https%3A%2F%2Fa2.gold-usergeneratedcontent.net%2F1773968401%2F748%2F03a78c7012459a94e1825413ddbb145adefe92b5a8954a390633b1e229191ec2.avif&ref=https%3A%2F%2Fhitomi.la%2Freader%2F2885432.html"
+      ],
+      "cover": "https://ia-sofia.armijosfeo5.workers.dev/?url=https%3A%2F%2Fa2.gold-usergeneratedcontent.net%2F1773968401%2F2371%2F28f818ed21e5c51e6ca16ac10aa497eeb90ff8515e5a0963193167d15e739439.avif&ref=https%3A%2F%2Fhitomi.la%2Freader%2F2885432.html",
+      "date": "2026-03-20T01:24:10.079Z"
     }
   ]
 }
