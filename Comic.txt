@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "exportDate": "2026-03-20T00:47:51.185Z",
+  "exportDate": "2026-03-20T00:49:32.922Z",
   "comics": [
     {
       "title": "loli",
@@ -21965,6 +21965,34 @@
       ],
       "cover": "https://s1.3hentai.xyz/d831221/1.jpg",
       "date": "2026-03-20T00:47:51.184Z"
+    },
+    {
+      "id": 395,
+      "title": "Inukan Nikki Vl2",
+      "pages": [
+        "https://s1.3hentai.xyz/d890000/1.jpg",
+        "https://s1.3hentai.xyz/d890000/2.jpg",
+        "https://s1.3hentai.xyz/d890000/3.jpg",
+        "https://s1.3hentai.xyz/d890000/4.jpg",
+        "https://s1.3hentai.xyz/d890000/5.jpg",
+        "https://s1.3hentai.xyz/d890000/6.jpg",
+        "https://s1.3hentai.xyz/d890000/7.jpg",
+        "https://s1.3hentai.xyz/d890000/8.jpg",
+        "https://s1.3hentai.xyz/d890000/9.jpg",
+        "https://s1.3hentai.xyz/d890000/10.jpg",
+        "https://s1.3hentai.xyz/d890000/11.jpg",
+        "https://s1.3hentai.xyz/d890000/12.jpg",
+        "https://s1.3hentai.xyz/d890000/13.jpg",
+        "https://s1.3hentai.xyz/d890000/14.jpg",
+        "https://s1.3hentai.xyz/d890000/15.jpg",
+        "https://s1.3hentai.xyz/d890000/16.jpg",
+        "https://s1.3hentai.xyz/d890000/17.jpg",
+        "https://s1.3hentai.xyz/d890000/18.jpg",
+        "https://s1.3hentai.xyz/d890000/19.jpg",
+        "https://s1.3hentai.xyz/d890000/20.jpg"
+      ],
+      "cover": "https://s1.3hentai.xyz/d890000/1.jpg",
+      "date": "2026-03-20T00:49:32.920Z"
     }
   ]
 }
