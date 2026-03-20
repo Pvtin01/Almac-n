@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "exportDate": "2026-03-20T01:26:50.056Z",
+  "exportDate": "2026-03-20T01:27:40.996Z",
   "comics": [
     {
       "title": "loli",
@@ -22028,6 +22028,32 @@
       ],
       "cover": "https://a1.gold-usergeneratedcontent.net/1773968401/1980/e09779f814a3807f0346dcc4e9500e8586487525058d7f6bbf3a1592900b0bc7.avif",
       "date": "2026-03-20T01:26:50.056Z"
+    },
+    {
+      "id": 400,
+      "title": "dog",
+      "pages": [
+        "https://a2.gold-usergeneratedcontent.net/1773968401/2371/28f818ed21e5c51e6ca16ac10aa497eeb90ff8515e5a0963193167d15e739439.avif",
+        "https://a1.gold-usergeneratedcontent.net/1773968401/1980/e09779f814a3807f0346dcc4e9500e8586487525058d7f6bbf3a1592900b0bc7.avif",
+        "https://a1.gold-usergeneratedcontent.net/1773968401/3495/9a1ff9347c47d77e934477ae1db185aa4457a962246699607d33de0f803afa7d.avif",
+        "https://a2.gold-usergeneratedcontent.net/1773968401/2152/3db47a8a2c30d7a77ff050e760c4fe61280fd4b1bc44ede6d3d36ec7698a1688.avif",
+        "https://a2.gold-usergeneratedcontent.net/1773968401/2218/42cad48a99906cc0e26ab72c8423c973f4a28ce6d29303043c066fc48fe63aa8.avif",
+        "https://a1.gold-usergeneratedcontent.net/1773968401/204/9539f267dc5e6348327753567da12a34b0cd7a3952f8d26ebb80d66795d59cc0.avif",
+        "https://a1.gold-usergeneratedcontent.net/1773968401/1758/d800e5d67050d26c9668ad078ac2bb57dff95c5836db695e0da044e55d9ccde6.avif",
+        "https://a1.gold-usergeneratedcontent.net/1773968401/2820/36a485f11bb895b741e6680a7b5abcad63b5e5d266a47dcf2fffcc0dbdc3804b.avif",
+        "https://a2.gold-usergeneratedcontent.net/1773968401/841/5cbb6625715d3d22dbda5a8eca7eb8edf00a58cb60daf332abbc0b77c1b58493.avif",
+        "https://a2.gold-usergeneratedcontent.net/1773968401/952/d5216c9716e574fee60fd36eef6222a279cd96b502972a65e73cc6f13188fb83.avif",
+        "https://a1.gold-usergeneratedcontent.net/1773968401/21/fe15c7f56d92347796ca623b63d9e3ae12f3f116b1e3b1dd22818c707b0f0150.avif",
+        "https://a1.gold-usergeneratedcontent.net/1773968401/3153/e9eaad0208effcac75dcace0591ae7ee6590124ec6738787d2b348aa3760251c.avif",
+        "https://a2.gold-usergeneratedcontent.net/1773968401/3973/a153250b6cf9ff7f493a1a4b3a366e307838f5d8954631836446380d517e885f.avif",
+        "https://a2.gold-usergeneratedcontent.net/1773968401/1894/9ba35421446263b03fd30542e66602319ab66e62175e4b0eea5bf8fff5f99667.avif",
+        "https://a2.gold-usergeneratedcontent.net/1773968401/4063/3d2f8ae51474eb67a57b3bf202a7ac1d4fd5818ca062c79c817b049ac0577dff.avif",
+        "https://a2.gold-usergeneratedcontent.net/1773968401/1762/be3fd2bf0d3f8c4add6b1edd6934876d8c2659e641894d96d97b1d1dc777ae26.avif",
+        "https://a1.gold-usergeneratedcontent.net/1773968401/3666/61ac0c3e3db6be3421329df4b1a7e52e8eacc0b4493fffaea60a8e790827e52e.avif",
+        "https://a2.gold-usergeneratedcontent.net/1773968401/748/03a78c7012459a94e1825413ddbb145adefe92b5a8954a390633b1e229191ec2.avif"
+      ],
+      "cover": "https://a2.gold-usergeneratedcontent.net/1773968401/2371/28f818ed21e5c51e6ca16ac10aa497eeb90ff8515e5a0963193167d15e739439.avif",
+      "date": "2026-03-20T01:27:40.996Z"
     }
   ]
 }
