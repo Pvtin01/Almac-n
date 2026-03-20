@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "exportDate": "2026-03-20T01:24:10.080Z",
+  "exportDate": "2026-03-20T01:26:50.056Z",
   "comics": [
     {
       "title": "loli",
@@ -22019,6 +22019,15 @@
       ],
       "cover": "https://ia-sofia.armijosfeo5.workers.dev/?url=https%3A%2F%2Fa2.gold-usergeneratedcontent.net%2F1773968401%2F2371%2F28f818ed21e5c51e6ca16ac10aa497eeb90ff8515e5a0963193167d15e739439.avif&ref=https%3A%2F%2Fhitomi.la%2Freader%2F2885432.html",
       "date": "2026-03-20T01:24:10.079Z"
+    },
+    {
+      "id": 399,
+      "title": "dog",
+      "pages": [
+        "https://a1.gold-usergeneratedcontent.net/1773968401/1980/e09779f814a3807f0346dcc4e9500e8586487525058d7f6bbf3a1592900b0bc7.avif"
+      ],
+      "cover": "https://a1.gold-usergeneratedcontent.net/1773968401/1980/e09779f814a3807f0346dcc4e9500e8586487525058d7f6bbf3a1592900b0bc7.avif",
+      "date": "2026-03-20T01:26:50.056Z"
     }
   ]
 }
