@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "exportDate": "2026-03-21T05:04:04.717Z",
+  "exportDate": "2026-03-21T05:06:10.880Z",
   "comics": [
     {
       "title": "loli",
@@ -22046,6 +22046,15 @@
       ],
       "cover": "https://img1.giolandscaping.com/library/57147/001.webp",
       "date": "2026-03-21T05:03:53.030Z"
+    },
+    {
+      "id": 402,
+      "title": "dog",
+      "pages": [
+        "https://img1.giolandscaping.com/library/57147/000.webp"
+      ],
+      "cover": "https://img1.giolandscaping.com/library/57147/000.webp",
+      "date": "2026-03-21T05:06:10.879Z"
     }
   ]
 }
