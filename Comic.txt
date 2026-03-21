@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "exportDate": "2026-03-20T01:29:21.317Z",
+  "exportDate": "2026-03-21T04:58:26.896Z",
   "comics": [
     {
       "title": "loli",
@@ -22054,6 +22054,51 @@
       ],
       "cover": "https://a2.gold-usergeneratedcontent.net/1773968401/2371/28f818ed21e5c51e6ca16ac10aa497eeb90ff8515e5a0963193167d15e739439.avif",
       "date": "2026-03-20T01:27:40.996Z"
+    },
+    {
+      "title": "[Yosutebito na Mangakaki (Tomoki Tomonori)] Fushigi na Mushikan Rougoku no Alice (Alice in Wonderland) [English] {Mant} [Digital]",
+      "pages": [
+        "https://s1.3hentai.xyz/d613984/1.jpg",
+        "https://s1.3hentai.xyz/d613984/2.jpg",
+        "https://s1.3hentai.xyz/d613984/3.jpg",
+        "https://s1.3hentai.xyz/d613984/4.jpg",
+        "https://s1.3hentai.xyz/d613984/5.jpg",
+        "https://s1.3hentai.xyz/d613984/6.jpg",
+        "https://s1.3hentai.xyz/d613984/7.jpg",
+        "https://s1.3hentai.xyz/d613984/8.jpg",
+        "https://s1.3hentai.xyz/d613984/9.jpg",
+        "https://s1.3hentai.xyz/d613984/10.jpg",
+        "https://s1.3hentai.xyz/d613984/11.jpg",
+        "https://s1.3hentai.xyz/d613984/12.jpg",
+        "https://s1.3hentai.xyz/d613984/13.jpg",
+        "https://s1.3hentai.xyz/d613984/14.jpg",
+        "https://s1.3hentai.xyz/d613984/15.jpg",
+        "https://s1.3hentai.xyz/d613984/16.jpg",
+        "https://s1.3hentai.xyz/d613984/17.jpg",
+        "https://s1.3hentai.xyz/d613984/18.jpg",
+        "https://s1.3hentai.xyz/d613984/19.jpg",
+        "https://s1.3hentai.xyz/d613984/20.jpg",
+        "https://s1.3hentai.xyz/d613984/21.jpg",
+        "https://s1.3hentai.xyz/d613984/22.jpg",
+        "https://s1.3hentai.xyz/d613984/23.jpg",
+        "https://s1.3hentai.xyz/d613984/24.jpg",
+        "https://s1.3hentai.xyz/d613984/25.jpg",
+        "https://s1.3hentai.xyz/d613984/26.jpg",
+        "https://s1.3hentai.xyz/d613984/27.jpg",
+        "https://s1.3hentai.xyz/d613984/28.jpg",
+        "https://s1.3hentai.xyz/d613984/29.jpg",
+        "https://s1.3hentai.xyz/d613984/30.jpg",
+        "https://s1.3hentai.xyz/d613984/31.jpg",
+        "https://s1.3hentai.xyz/d613984/32.jpg",
+        "https://s1.3hentai.xyz/d613984/33.jpg",
+        "https://s1.3hentai.xyz/d613984/34.jpg",
+        "https://s1.3hentai.xyz/d613984/35.jpg",
+        "https://s1.3hentai.xyz/d613984/36.jpg",
+        "https://s1.3hentai.xyz/d613984/37.jpg"
+      ],
+      "cover": "https://s1.3hentai.xyz/d613984/1.jpg",
+      "date": "2026-03-21T04:58:26.896Z",
+      "id": 401
     }
   ]
 }
