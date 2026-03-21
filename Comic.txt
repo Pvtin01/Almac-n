@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "exportDate": "2026-03-21T05:37:38.003Z",
+  "exportDate": "2026-03-21T05:40:03.282Z",
   "comics": [
     {
       "title": "loli",
@@ -22065,6 +22065,29 @@
       ],
       "cover": "https://cdn.imagedeliveries.com/2885432/44da5a175877bf551ed03ce1e2981d00789d24f3/1.webp",
       "date": "2026-03-21T05:37:38.002Z"
+    },
+    {
+      "id": 405,
+      "title": "cc",
+      "pages": [
+        "https://cdn.imagedeliveries.com/2885432/44da5a175877bf551ed03ce1e2981d00789d24f3/1.webp",
+        "https://cdn.imagedeliveries.com/2885432/44da5a175877bf551ed03ce1e2981d00789d24f3/1.webp",
+        "https://cdn.imagedeliveries.com/2885432/44da5a175877bf551ed03ce1e2981d00789d24f3/1.webp",
+        "https://cdn.imagedeliveries.com/2885432/44da5a175877bf551ed03ce1e2981d00789d24f3/1.webp",
+        "https://cdn.imagedeliveries.com/2885432/44da5a175877bf551ed03ce1e2981d00789d24f3/1.webp",
+        "https://cdn.imagedeliveries.com/2885432/44da5a175877bf551ed03ce1e2981d00789d24f3/1.webp",
+        "https://cdn.imagedeliveries.com/2885432/44da5a175877bf551ed03ce1e2981d00789d24f3/1.webp",
+        "https://cdn.imagedeliveries.com/2885432/44da5a175877bf551ed03ce1e2981d00789d24f3/1.webp",
+        "https://cdn.imagedeliveries.com/2885432/44da5a175877bf551ed03ce1e2981d00789d24f3/1.webp",
+        "https://cdn.imagedeliveries.com/2885432/44da5a175877bf551ed03ce1e2981d00789d24f3/1.webp",
+        "https://cdn.imagedeliveries.com/2885432/44da5a175877bf551ed03ce1e2981d00789d24f3/1.webp",
+        "https://cdn.imagedeliveries.com/2885432/44da5a175877bf551ed03ce1e2981d00789d24f3/1.webp",
+        "https://cdn.imagedeliveries.com/2885432/44da5a175877bf551ed03ce1e2981d00789d24f3/1.webp",
+        "https://cdn.imagedeliveries.com/2885432/44da5a175877bf551ed03ce1e2981d00789d24f3/1.webp",
+        "https://cdn.imagedeliveries.com/2885432/44da5a175877bf551ed03ce1e2981d00789d24f3/1.webp"
+      ],
+      "cover": "https://cdn.imagedeliveries.com/2885432/44da5a175877bf551ed03ce1e2981d00789d24f3/1.webp",
+      "date": "2026-03-21T05:40:03.279Z"
     }
   ]
 }
