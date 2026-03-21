@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "exportDate": "2026-03-21T05:07:05.625Z",
+  "exportDate": "2026-03-21T05:36:41.315Z",
   "comics": [
     {
       "title": "loli",
@@ -22091,6 +22091,15 @@
       ],
       "cover": "https://s1.3hentai.xyz/d613984/1.jpg",
       "date": "2026-03-21T05:07:05.625Z"
+    },
+    {
+      "id": 403,
+      "title": "doh",
+      "pages": [
+        "https://cdn.imagedeliveries.com/2885432/44da5a175877bf551ed03ce1e2981d00789d24f3/1.webp"
+      ],
+      "cover": "https://cdn.imagedeliveries.com/2885432/44da5a175877bf551ed03ce1e2981d00789d24f3/1.webp",
+      "date": "2026-03-21T05:36:41.314Z"
     }
   ]
 }
