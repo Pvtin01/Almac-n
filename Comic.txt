@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "exportDate": "2026-03-21T06:24:00.815Z",
+  "exportDate": "2026-03-21T06:24:13.824Z",
   "comics": [
     {
       "title": "loli",
@@ -22038,60 +22038,6 @@
       ],
       "cover": "https://s1.3hentai.xyz/d613984/1.jpg",
       "date": "2026-03-21T05:07:05.625Z"
-    },
-    {
-      "id": 404,
-      "title": "Inukan Nikki Vl3",
-      "pages": [
-        "https://cdn.imagedeliveries.com/2885432/44da5a175877bf551ed03ce1e2981d00789d24f3/1.webp",
-        "https://cdn.imagedeliveries.com/2885432/44da5a175877bf551ed03ce1e2981d00789d24f3/2.webp",
-        "https://cdn.imagedeliveries.com/2885432/44da5a175877bf551ed03ce1e2981d00789d24f3/3.webp",
-        "https://cdn.imagedeliveries.com/2885432/44da5a175877bf551ed03ce1e2981d00789d24f3/4.webp",
-        "https://cdn.imagedeliveries.com/2885432/44da5a175877bf551ed03ce1e2981d00789d24f3/5.webp",
-        "https://cdn.imagedeliveries.com/2885432/44da5a175877bf551ed03ce1e2981d00789d24f3/6.webp",
-        "https://cdn.imagedeliveries.com/2885432/44da5a175877bf551ed03ce1e2981d00789d24f3/7.webp",
-        "https://cdn.imagedeliveries.com/2885432/44da5a175877bf551ed03ce1e2981d00789d24f3/8.webp",
-        "https://cdn.imagedeliveries.com/2885432/44da5a175877bf551ed03ce1e2981d00789d24f3/9.webp",
-        "https://cdn.imagedeliveries.com/2885432/44da5a175877bf551ed03ce1e2981d00789d24f3/10.webp",
-        "https://cdn.imagedeliveries.com/2885432/44da5a175877bf551ed03ce1e2981d00789d24f3/11.webp",
-        "https://cdn.imagedeliveries.com/2885432/44da5a175877bf551ed03ce1e2981d00789d24f3/12.webp",
-        "https://cdn.imagedeliveries.com/2885432/44da5a175877bf551ed03ce1e2981d00789d24f3/13.webp",
-        "https://cdn.imagedeliveries.com/2885432/44da5a175877bf551ed03ce1e2981d00789d24f3/14.webp",
-        "https://cdn.imagedeliveries.com/2885432/44da5a175877bf551ed03ce1e2981d00789d24f3/15.webp",
-        "https://cdn.imagedeliveries.com/2885432/44da5a175877bf551ed03ce1e2981d00789d24f3/16.webp",
-        "https://cdn.imagedeliveries.com/2885432/44da5a175877bf551ed03ce1e2981d00789d24f3/17.webp",
-        "https://cdn.imagedeliveries.com/2885432/44da5a175877bf551ed03ce1e2981d00789d24f3/18.webp",
-        "https://cdn.imagedeliveries.com/2885432/44da5a175877bf551ed03ce1e2981d00789d24f3/19.webp"
-      ],
-      "cover": "https://cdn.imagedeliveries.com/2885432/44da5a175877bf551ed03ce1e2981d00789d24f3/1.webp",
-      "date": "2026-03-21T05:37:38.002Z"
-    },
-    {
-      "id": 406,
-      "title": "Inukan Nikki Vl3",
-      "pages": [
-        "https://nimg4.yx247.com/manga8/32/10065119/100661293/7256621_2024072917439.webp",
-        "https://nimg4.yx247.com/manga8/32/10065119/100661293/7256621_20240729837.webp",
-        "https://nimg4.yx247.com/manga8/32/10065119/100661293/7256621_20240729837.webp",
-        "https://nimg4.yx247.com/manga8/32/10065119/100661293/7256621_2024072919007.webp",
-        "https://nimg4.yx247.com/manga8/32/10065119/100661293/7256621_20240729819.webp",
-        "https://nimg4.yx247.com/manga8/32/10065119/100661293/7256621_2024072910445.webp",
-        "https://nimg4.yx247.com/manga8/32/10065119/100661293/7256621_2024072915204.webp",
-        "https://nimg4.yx247.com/manga8/32/10065119/100661293/7256621_2024072919039.webp",
-        "https://nimg4.yx247.com/manga8/32/10065119/100661293/7256621_2024072917967.webp",
-        "https://nimg4.yx247.com/manga8/32/10065119/100661293/7256621_2024072911046.webp",
-        "https://nimg4.yx247.com/manga8/32/10065119/100661293/7256621_2024072914777.webp",
-        "https://nimg4.yx247.com/manga8/32/10065119/100661293/7256621_2024072911943.webp",
-        "https://nimg4.yx247.com/manga8/32/10065119/100661293/7256621_202407296162.webp",
-        "https://nimg4.yx247.com/manga8/32/10065119/100661293/7256621_202407292649.webp",
-        "https://nimg4.yx247.com/manga8/32/10065119/100661293/7256621_2024072912865.webp",
-        "https://nimg4.yx247.com/manga8/32/10065119/100661293/7256621_202407296550.webp",
-        "https://nimg4.yx247.com/manga8/32/10065119/100661293/7256621_2024072917876.webp",
-        "https://nimg4.yx247.com/manga8/32/10065119/100661293/7256621_202407298702.webp",
-        "https://nimg4.yx247.com/manga8/32/10065119/100661293/7256621_202407291180.webp"
-      ],
-      "cover": "https://nimg4.yx247.com/manga8/32/10065119/100661293/7256621_2024072917439.webp",
-      "date": "2026-03-21T06:24:00.814Z"
     }
   ]
 }
