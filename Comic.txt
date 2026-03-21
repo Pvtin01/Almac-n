@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "exportDate": "2026-03-21T06:36:45.472Z",
+  "exportDate": "2026-03-21T06:36:53.149Z",
   "comics": [
     {
       "title": "loli",
@@ -22065,44 +22065,6 @@
       ],
       "cover": "https://nimg4.yx247.com/manga8/32/10065119/100661293/7256621_2024072917439.webp",
       "date": "2026-03-21T06:24:26.004Z"
-    },
-    {
-      "id": 406,
-      "title": "dog",
-      "pages": [
-        "https://img3.giolandscaping.com/library/75798/000.webp",
-        "https://img3.giolandscaping.com/library/75798/001.webp",
-        "https://img3.giolandscaping.com/library/75798/002.webp",
-        "https://img3.giolandscaping.com/library/75798/003.webp",
-        "https://img3.giolandscaping.com/library/75798/004.webp",
-        "https://img3.giolandscaping.com/library/75798/005.webp",
-        "https://img3.giolandscaping.com/library/75798/006.webp",
-        "https://img3.giolandscaping.com/library/75798/007.webp",
-        "https://img3.giolandscaping.com/library/75798/008.webp",
-        "https://img3.giolandscaping.com/library/75798/009.webp",
-        "https://img3.giolandscaping.com/library/75798/010.webp",
-        "https://img3.giolandscaping.com/library/75798/011.webp",
-        "https://img3.giolandscaping.com/library/75798/012.webp",
-        "https://img3.giolandscaping.com/library/75798/013.webp",
-        "https://img3.giolandscaping.com/library/75798/014.webp",
-        "https://img3.giolandscaping.com/library/75798/015.webp",
-        "https://img3.giolandscaping.com/library/75798/016.webp",
-        "https://img3.giolandscaping.com/library/75798/017.webp",
-        "https://img3.giolandscaping.com/library/75798/018.webp",
-        "https://img3.giolandscaping.com/library/75798/019.webp",
-        "https://img3.giolandscaping.com/library/75798/020.webp"
-      ],
-      "cover": "https://img3.giolandscaping.com/library/75798/000.webp",
-      "date": "2026-03-21T06:35:39.681Z"
-    },
-    {
-      "id": 407,
-      "title": "v",
-      "pages": [
-        "https://img3.giolandscaping.com/library/75798/001.webp"
-      ],
-      "cover": "https://img3.giolandscaping.com/library/75798/001.webp",
-      "date": "2026-03-21T06:36:45.472Z"
     }
   ]
 }
