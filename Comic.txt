@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "exportDate": "2026-03-21T06:36:53.149Z",
+  "exportDate": "2026-04-01T21:51:01.075Z",
   "comics": [
     {
       "title": "loli",
@@ -22065,6 +22065,15 @@
       ],
       "cover": "https://nimg4.yx247.com/manga8/32/10065119/100661293/7256621_2024072917439.webp",
       "date": "2026-03-21T06:24:26.004Z"
+    },
+    {
+      "id": 406,
+      "title": "dog",
+      "pages": [
+        "https://a1.gold-usergeneratedcontent.net/1775077202/2839/7c3a5ceb21f33d6b8a4db1e435a0c4f495ea7a525109c47441793fb604c4817b.avif"
+      ],
+      "cover": "https://a1.gold-usergeneratedcontent.net/1775077202/2839/7c3a5ceb21f33d6b8a4db1e435a0c4f495ea7a525109c47441793fb604c4817b.avif",
+      "date": "2026-04-01T21:51:01.062Z"
     }
   ]
 }
