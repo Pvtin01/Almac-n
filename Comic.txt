@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "exportDate": "2026-04-01T21:51:11.106Z",
+  "exportDate": "2026-04-01T21:51:47.562Z",
   "comics": [
     {
       "title": "loli",
@@ -22065,6 +22065,15 @@
       ],
       "cover": "https://nimg4.yx247.com/manga8/32/10065119/100661293/7256621_2024072917439.webp",
       "date": "2026-03-21T06:24:26.004Z"
+    },
+    {
+      "id": 407,
+      "title": "dog",
+      "pages": [
+        "https://imges.sexkomix2.com/uploads_images/comic-porno-pan-x-oolong--giga--comico-de-sexo-sedujo-a-la-2026-03-31/comic-porno-pan-x-oolong--giga--comico-de-sexo-sedujo-a-la-2026-03-31-793620.jpg"
+      ],
+      "cover": "https://imges.sexkomix2.com/uploads_images/comic-porno-pan-x-oolong--giga--comico-de-sexo-sedujo-a-la-2026-03-31/comic-porno-pan-x-oolong--giga--comico-de-sexo-sedujo-a-la-2026-03-31-793620.jpg",
+      "date": "2026-04-01T21:51:47.562Z"
     }
   ]
 }
