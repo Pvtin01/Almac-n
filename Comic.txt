@@ -1,0 +1,36 @@
+{
+  "version": "1.0",
+  "exportDate": "2026-04-01T21:51:47.562Z",
+  "comics": [
+    {
+      "title": "goku",
+      "pages": [
+        "https://m1./img/1857084-1.jpg",        
+        "https://m1./img/1857084-62.jpg",
+        "https://m1./img/1857084-63.jpg"
+      ],
+      "cover": "https://m1./img/1857084-1.jpg",
+      "date": "2026-01-16T12:26:16.608Z",
+      "id": 1
+    },
+    {
+      "title": "gokui",
+      "pages": [        
+        "https://m6./021/4u0hwc5rbf/1.jpg",
+        "https://m6./021/4u0hwc5rbf/2.jpg"
+      ],
+      "cover": "https://m6./021/4u0hwc5rbf/1.jpg",
+      "date": "2026-01-16T12:22:14.492Z",
+      "id": 2
+    },
+  {
+      "id": 407,
+      "title": "dog",
+      "pages": [
+        "https://.com/uploads_images/comic--pan-x-oolong--giga--comico-de--sedujo-a-la-2026-03-31/comic---x-oolong--giga--comico-de---a-la-2026-03-31-793620.jpg"
+      ],
+      "cover": "https://.com/uploads_images/comic-porno-pan-x--sedujo-a-la-2026-03-31/comic-o-a-la-2026-03-31-793620.jpg",
+      "date": "2026-04-01T21:51:47.562Z"
+    }
+  ]
+}
