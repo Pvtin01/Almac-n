@@ -1,18 +1,7 @@
 {
   "version": "1.0",
-  "exportDate": "2026-08-05T00:15:22.632Z",
+  "exportDate": "2026-08-05T00:53:28.195Z",
   "comics": [
-    {
-      "title": "goku",
-      "pages": [
-        "https://m1./img/1857084-1.jpg",
-        "https://m1./img/1857084-62.jpg",
-        "https://m1./img/1857084-63.jpg"
-      ],
-      "cover": "https://m1./img/1857084-1.jpg",
-      "date": "2026-01-16T12:26:16.608Z",
-      "id": 1
-    },
     {
       "title": "gokui",
       "pages": [
