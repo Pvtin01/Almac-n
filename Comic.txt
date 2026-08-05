@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "exportDate": "2026-04-01T21:51:47.562Z",
+  "exportDate": "2026-08-05T00:58:50.916Z",
   "comics": [
     {
       "title": "loli",
@@ -22074,6 +22074,55 @@
       ],
       "cover": "https://imges.sexkomix2.com/uploads_images/comic-porno-pan-x-oolong--giga--comico-de-sexo-sedujo-a-la-2026-03-31/comic-porno-pan-x-oolong--giga--comico-de-sexo-sedujo-a-la-2026-03-31-793620.jpg",
       "date": "2026-04-01T21:51:47.562Z"
+    },
+    {
+      "id": 408,
+      "title": "Dog2",
+      "pages": [
+        "https://m11.hentaiera.com/032/uctp0fvd9k/1.webp",
+        "https://m11.hentaiera.com/032/uctp0fvd9k/2.webp",
+        "https://m11.hentaiera.com/032/uctp0fvd9k/3.webp",
+        "https://m11.hentaiera.com/032/uctp0fvd9k/4.webp",
+        "https://m11.hentaiera.com/032/uctp0fvd9k/5.webp",
+        "https://m11.hentaiera.com/032/uctp0fvd9k/6.webp",
+        "https://m11.hentaiera.com/032/uctp0fvd9k/7.webp",
+        "https://m11.hentaiera.com/032/uctp0fvd9k/8.webp",
+        "https://m11.hentaiera.com/032/uctp0fvd9k/9.webp",
+        "https://m11.hentaiera.com/032/uctp0fvd9k/10.webp",
+        "https://m11.hentaiera.com/032/uctp0fvd9k/11.webp",
+        "https://m11.hentaiera.com/032/uctp0fvd9k/12.webp",
+        "https://m11.hentaiera.com/032/uctp0fvd9k/13.webp",
+        "https://m11.hentaiera.com/032/uctp0fvd9k/14.webp",
+        "https://m11.hentaiera.com/032/uctp0fvd9k/15.webp",
+        "https://m11.hentaiera.com/032/uctp0fvd9k/16.webp",
+        "https://m11.hentaiera.com/032/uctp0fvd9k/17.webp",
+        "https://m11.hentaiera.com/032/uctp0fvd9k/18.webp",
+        "https://m11.hentaiera.com/032/uctp0fvd9k/19.webp",
+        "https://m11.hentaiera.com/032/uctp0fvd9k/20.webp",
+        "https://m11.hentaiera.com/032/uctp0fvd9k/21.webp",
+        "https://m11.hentaiera.com/032/uctp0fvd9k/22.webp",
+        "https://m11.hentaiera.com/032/uctp0fvd9k/23.webp",
+        "https://m11.hentaiera.com/032/uctp0fvd9k/24.webp",
+        "https://m11.hentaiera.com/032/uctp0fvd9k/25.webp",
+        "https://m11.hentaiera.com/032/uctp0fvd9k/26.webp",
+        "https://m11.hentaiera.com/032/uctp0fvd9k/27.webp",
+        "https://m11.hentaiera.com/032/uctp0fvd9k/28.webp",
+        "https://m11.hentaiera.com/032/uctp0fvd9k/29.webp",
+        "https://m11.hentaiera.com/032/uctp0fvd9k/30.webp",
+        "https://m11.hentaiera.com/032/uctp0fvd9k/31.webp",
+        "https://m11.hentaiera.com/032/uctp0fvd9k/32.webp",
+        "https://m11.hentaiera.com/032/uctp0fvd9k/33.webp",
+        "https://m11.hentaiera.com/032/uctp0fvd9k/34.webp",
+        "https://m11.hentaiera.com/032/uctp0fvd9k/35.webp",
+        "https://m11.hentaiera.com/032/uctp0fvd9k/36.webp",
+        "https://m11.hentaiera.com/032/uctp0fvd9k/37.webp",
+        "https://m11.hentaiera.com/032/uctp0fvd9k/38.webp",
+        "https://m11.hentaiera.com/032/uctp0fvd9k/39.webp",
+        "https://m11.hentaiera.com/032/uctp0fvd9k/40.webp",
+        "https://m11.hentaiera.com/032/uctp0fvd9k/41.webp"
+      ],
+      "cover": "https://m11.hentaiera.com/032/uctp0fvd9k/1.webp",
+      "date": "2026-08-05T00:58:50.905Z"
     }
   ]
 }
