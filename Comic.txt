@@ -1,11 +1,11 @@
 {
   "version": "1.0",
-  "exportDate": "2026-04-01T21:51:47.562Z",
+  "exportDate": "2026-08-05T00:15:22.632Z",
   "comics": [
     {
       "title": "goku",
       "pages": [
-        "https://m1./img/1857084-1.jpg",        
+        "https://m1./img/1857084-1.jpg",
         "https://m1./img/1857084-62.jpg",
         "https://m1./img/1857084-63.jpg"
       ],
@@ -15,7 +15,7 @@
     },
     {
       "title": "gokui",
-      "pages": [        
+      "pages": [
         "https://m6./021/4u0hwc5rbf/1.jpg",
         "https://m6./021/4u0hwc5rbf/2.jpg"
       ],
@@ -23,7 +23,7 @@
       "date": "2026-01-16T12:22:14.492Z",
       "id": 2
     },
-  {
+    {
       "id": 407,
       "title": "dog",
       "pages": [
@@ -31,6 +31,15 @@
       ],
       "cover": "https://.com/uploads_images/comic-porno-pan-x--sedujo-a-la-2026-03-31/comic-o-a-la-2026-03-31-793620.jpg",
       "date": "2026-04-01T21:51:47.562Z"
+    },
+    {
+      "id": 408,
+      "title": "Comic de prueba",
+      "pages": [
+        "https://via.placeholder.com/600x900.jpg"
+      ],
+      "cover": "https://via.placeholder.com/600x900.jpg",
+      "date": "2026-08-05T00:15:22.629Z"
     }
   ]
 }
