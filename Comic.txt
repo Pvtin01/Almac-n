@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "exportDate": "2026-08-05T01:27:59.834Z",
+  "exportDate": "2026-10-17T05:36:10.363Z",
   "comics": [
     {
       "title": "loli",
@@ -22182,6 +22182,15 @@
       ],
       "cover": "https://m11.hentaiera.com/032/jlycd92f71/1.webp",
       "date": "2026-08-05T01:27:59.755Z"
+    },
+    {
+      "id": 410,
+      "title": "Marcos Diaz",
+      "pages": [
+        "https://chochox.com/wp-content/uploads/marco-diaz-shadbase/Marco-Diaz-Shadbase-01.jpg"
+      ],
+      "cover": "https://chochox.com/wp-content/uploads/marco-diaz-shadbase/Marco-Diaz-Shadbase-01.jpg",
+      "date": "2026-10-17T05:36:10.267Z"
     }
   ]
 }
