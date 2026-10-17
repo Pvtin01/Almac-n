@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "exportDate": "2026-10-17T05:36:10.363Z",
+  "exportDate": "2026-10-17T06:15:21.603Z",
   "comics": [
     {
       "title": "loli",
@@ -22191,6 +22191,22 @@
       ],
       "cover": "https://chochox.com/wp-content/uploads/marco-diaz-shadbase/Marco-Diaz-Shadbase-01.jpg",
       "date": "2026-10-17T05:36:10.267Z"
+    },
+    {
+      "id": 411,
+      "title": "Marcos dias",
+      "pages": [
+        "https://reycomix.com/wp-content/uploads/2025/03/Marco-Diaz-Shadbase-1.jpg",
+        "https://reycomix.com/wp-content/uploads/2025/03/Marco-Diaz-Shadbase-2.jpg",
+        "https://reycomix.com/wp-content/uploads/2025/03/Marco-Diaz-Shadbase-3.jpg",
+        "https://reycomix.com/wp-content/uploads/2025/03/Marco-Diaz-Shadbase-4.jpg",
+        "https://reycomix.com/wp-content/uploads/2025/03/Marco-Diaz-Shadbase-5.jpg",
+        "https://reycomix.com/wp-content/uploads/2025/03/Marco-Diaz-Shadbase-6.jpg",
+        "https://reycomix.com/wp-content/uploads/2025/03/Marco-Diaz-Shadbase-7.jpg",
+        "https://reycomix.com/wp-content/uploads/2025/03/Marco-Diaz-Shadbase-8.jpg"
+      ],
+      "cover": "https://reycomix.com/wp-content/uploads/2025/03/Marco-Diaz-Shadbase-1.jpg",
+      "date": "2026-10-17T06:15:21.525Z"
     }
   ]
 }
